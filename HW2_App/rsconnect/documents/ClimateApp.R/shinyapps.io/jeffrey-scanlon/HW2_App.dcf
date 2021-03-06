@@ -1,0 +1,12 @@
+name: HW2_App
+title: HW2_App
+username:
+account: jeffrey-scanlon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3744583
+bundleId: 4308359
+url: https://jeffrey-scanlon.shinyapps.io/HW2_App/
+when: 1615022615.59569
+asMultiple: FALSE
+asStatic: FALSE
